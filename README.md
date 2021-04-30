@@ -3,7 +3,7 @@
 ## Description of Applicaiton
 A blog website utilizing React, Gatsby, and GraphQl
 
-![Screenshot (180)](https://user-images.githubusercontent.com/68923037/116731065-dc475c80-a9ae-11eb-9243-b8e654dbb91a.png)
+![Screenshot (182)](https://user-images.githubusercontent.com/68923037/116736075-0439be80-a9b5-11eb-96dd-f034ec540d03.png)
 
 
  
