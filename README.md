@@ -1,6 +1,6 @@
 # Gatsby Blog
 
-## Description of the Website
+## Description of Applicaiton
 A blog website utilizing React, Gatsby, and GraphQl
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/68923037/116731065-dc475c80-a9ae-11eb-9243-b8e654dbb91a.png)
@@ -10,15 +10,15 @@ A blog website utilizing React, Gatsby, and GraphQl
 <br/>
 
 ## Table of Contents
-* [How it Works](#how-it-works)
-* [Website Features](#website-features)
+* [How to Use](#how-to-use)
+* [Features](#features)
 * [Blog Website](#blog-website)
 * [Credits](#credits)
 
 
 <br/>
 
-## How it Works
+## How to Use
 * Users can go to website link and then scroll through blogs and click on the blogs to read or watch
 
 
