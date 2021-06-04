@@ -1,5 +1,5 @@
 ---
-title: "The woes of job hunting"
+title: "The Woes of Job Hunting"
 date: "2021-06-04"
 ---
 
